@@ -1,0 +1,9 @@
+{
+  "name": "Terminal Runner",
+  "description": "Run terminal commands directly from Ulauncher and see results.",
+  "developer_name": "dss",
+  "icon": "images/icon-white.png",
+  "options": [],
+  "categories": ["System"],
+  "default_trigger": "cmd"
+}
